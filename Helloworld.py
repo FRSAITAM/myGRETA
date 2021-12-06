@@ -6,6 +6,6 @@ str = "! Hello World !"
 print("\n"+str)
 
 
-str = "! Bonjour Monde !"
+str = "! test test !"
 print("\n"+str)
 
